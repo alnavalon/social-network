@@ -1,0 +1,8 @@
+.messageField {
+    width: 500px;
+    height: 30px;
+    border-radius: 100px;
+}
+.sendButton {
+    margin: 5px auto;
+}

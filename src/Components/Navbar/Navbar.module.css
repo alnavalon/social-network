@@ -1,0 +1,18 @@
+.nav  {
+    grid-area: n;
+    background-color: coral;
+    padding: 20px;
+    border-radius: 10px;
+}
+.item   {
+    padding: 0px 0px 5px 0px;
+}
+.item a  {
+
+    color: white;
+    /*убирает подчеркивание ссылки*/
+    text-decoration: none;
+}
+.item a.active  {
+    color: gold;
+}

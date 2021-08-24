@@ -1,0 +1,10 @@
+.profile__img  {
+    width: 1000px;
+}
+.descriptionBlock   {
+    display: flex;
+    padding: 10px;
+}
+.descriptionBlock__text {
+    margin-left: 10px;
+}

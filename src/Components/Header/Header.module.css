@@ -1,0 +1,31 @@
+.header {
+    grid-area: h;
+    background-color: greenyellow;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.header img {
+    width: 60px;
+}
+
+.loginBlock {
+    float: right;
+    margin-right: 10px;
+
+}
+.loginBlock a {
+    color: white;
+}
+.loginBlock p {
+    color: white;
+    text-decoration: none;
+}
+.userBlock {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logout {
+    margin: 5px;
+}
+

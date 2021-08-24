@@ -1,0 +1,13 @@
+.sideBar    {
+    padding-top: 200px;
+    text-align: center;
+}
+.grids   {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    text-align: center;
+}
+.title    {
+
+    font-size: 35px;
+}
